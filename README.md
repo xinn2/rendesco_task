@@ -1,4 +1,4 @@
-# HOW TO RUN
+# How To Run
 1. Install dependencies
    ```bash
    npm install
@@ -9,4 +9,4 @@
     ```
 
 ## What you'll see
-!('/src/assets/rendesco_task_img.png')
+!(./src/assets/rendesco_task_img.png)
