@@ -1,4 +1,4 @@
-# How To Run
+## How To Run
 1. Install dependencies
    ```bash
    npm install
